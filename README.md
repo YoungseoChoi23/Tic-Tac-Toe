@@ -1,4 +1,4 @@
-소켓 프로그래밍을 이용한 tic tac toe 게임 
+소켓 프로그래밍을 이용한 tic tac toe 게임 레포지토리입니다.
 # server
 # client
 # Tic-Tac-Toe 
